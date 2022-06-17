@@ -1,0 +1,44 @@
+body{
+  background: url(img1.jpg);
+}
+header {
+  background-color: #666;
+  padding: 20px;
+  text-align: center;
+  font-size: 15px;
+  color: white;
+}
+
+h1
+{
+  margin: 50px;
+  text-align: center;
+}
+h2
+{
+  margin: 50px;
+  text-align: center;
+}
+h3
+{
+  margin: 150px;
+  text-align: center;
+}
+h4
+{
+  margin: 150px;
+  text-align: center;
+}
+
+h5
+{
+  margin: 55px;
+  text-align: center;
+}
+footer {
+  background-color: yellow;
+  padding: 10px;
+  text-align: center;
+  color: blue;
+
+}
